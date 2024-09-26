@@ -1,3 +1,4 @@
+# Codigo y ejercicio realizado por Andres Alvarez para Digital I
 import pandas as pd
 # Lista de letras y sus porcentajes para la palabra encefalograma
 letras = ['E', 'N', 'C', 'F', 'A', 'L', 'O', 'G', 'R', 'M']
